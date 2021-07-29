@@ -1,4 +1,4 @@
-package br.com.samara.vendinha;
+package br.com.samara.vendinha.domain;
 
 import java.util.SplittableRandom;
 
